@@ -13,11 +13,11 @@
 	* CNN, DCNN
 	* GAN, DCGAN
 	* AUTO ENCODERS
-	~ many more...
+	* many more...
 
 - network architectures
-	* VGG ~
-	* RESNET ~
+	* VGG 
+	* RESNET 
 	* FAST RNN, FASTER RNN
 	* INCEPTION
 
@@ -30,29 +30,27 @@ How do i know if the model is training (learning something)
 	  - Log Loss, Negative Log Likelihood
 	  - CATEGORICAL CROSS ENTROPHY LOSS
 			
-	~ many more...
 
 - Activation functions
 	* RELU
 	* TanH
 	* Sigmoid
 	* Leaky ReLU
-      * Softmax
+	* Softmax
 
 - learning rate
 
 - overfitting vs underfitting
-	:epochs,
 
 - momentum
 	
-PROJECTS
+## PROJECTS
 
-Style transfer
-still images and video files
-	* segway into CNNs
+- Style transfer
+*still images and video files
+* segway into CNNs
 
-Sentiment analysis
+- Sentiment analysis
 * segway into DNN
 
 
