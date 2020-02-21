@@ -56,7 +56,7 @@
 ## PROJECTS
 
 1. Style transfer
-* still images and video files
+* images and video files
 * segway into CNNs
 
 2. Sentiment analysis
