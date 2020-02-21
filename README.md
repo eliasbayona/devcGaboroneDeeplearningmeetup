@@ -1,5 +1,6 @@
 # devcGaboroneDeeplearningmeetup
 
+[audience layout survay](https://www.surveymonkey.com/r/RRSTB89)
 ## Fundametals
 - Input output pipline
     What kind of data show the network expect and the expected output?
