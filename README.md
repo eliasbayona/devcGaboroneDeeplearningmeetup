@@ -20,6 +20,8 @@
 	* RESNET 
 	* FAST RNN, FASTER RNN
 	* INCEPTION
+	
+- Forward and Backward propagation 
 
 How do i know if the model is training (learning something)
 	- loss functions
@@ -31,7 +33,9 @@ How do i know if the model is training (learning something)
 	  - CATEGORICAL CROSS ENTROPHY LOSS
 			
 
-- Activation functions
+- Activation functions [missinglink.ai](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/)
+Activation functions are mathematical equations that determine the output of a neural network. The function is attached to each neuron in the network, and determines whether it should be activated (“fired”) or not, based on whether each neuron’s input is relevant for the model’s prediction. Activation functions also help normalize the output of each neuron to a range between 1 and 0 or between -1 and 1.
+
 	* RELU
 	* TanH
 	* Sigmoid
@@ -46,11 +50,11 @@ How do i know if the model is training (learning something)
 	
 ## PROJECTS
 
-- Style transfer
-*still images and video files
+1. Style transfer
+* still images and video files
 * segway into CNNs
 
-- Sentiment analysis
+2. Sentiment analysis
 * segway into DNN
 
 
