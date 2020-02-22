@@ -36,7 +36,7 @@ Loss functions are used to determine the error (aka “the loss”) between the 
   - Mean Square Error
     - ![MSE](MSE1.png)
   - Mean Absolute Error
-    - ![MAE](MAE.png)
+    - ![MAE](MAE.jpg)
 * Classification
   - Log Loss, Negative Log Likelihood
   - CATEGORICAL CROSS ENTROPHY LOSS
