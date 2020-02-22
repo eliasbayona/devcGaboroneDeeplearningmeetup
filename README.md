@@ -34,7 +34,7 @@ Loss functions are used to determine the error (aka “the loss”) between the 
 
 * REGRESSION
   - Mean Square Error
-    [MSE](MSE.png)
+    ![MSE](MSE.png)
   - Mean Absolute Error
 * Classification
   - Log Loss, Negative Log Likelihood
