@@ -34,8 +34,9 @@ Loss functions are used to determine the error (aka “the loss”) between the 
 
 * REGRESSION
   - Mean Square Error
-    - ![MSE](MSE.png)
+    - ![MSE](MSE1.png)
   - Mean Absolute Error
+    - ![MAE](MAE.png)
 * Classification
   - Log Loss, Negative Log Likelihood
   - CATEGORICAL CROSS ENTROPHY LOSS
@@ -43,7 +44,7 @@ Loss functions are used to determine the error (aka “the loss”) between the 
 - learning rate
 
 - overfitting vs underfitting
-
+	- [helpfull video](https://youtu.be/xj4PlXMsN-Y)
 - momentum
 
 
