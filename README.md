@@ -64,11 +64,11 @@ Loss functions are used to determine the error (aka “the loss”) between the 
 	
 ## PROJECTS
 
-1. Style transfer
+1. Style transfer and image classification
 * images and video files
 * segway into CNNs
 
-2. Sentiment analysis
+2. Sentiment analysis if we have time
 * segway into DNN
 
 
