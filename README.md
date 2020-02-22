@@ -67,7 +67,7 @@ Loss functions are used to determine the error (aka “the loss”) between the 
 1.image classification
 * segway into CNNs
 
-(lab)[https://drive.google.com/file/d/1Af_QMevxdSgQM3jvawZ368KFWcwS1cNU/view?usp=sharing]
+[lab](https://drive.google.com/file/d/1Af_QMevxdSgQM3jvawZ368KFWcwS1cNU/view?usp=sharing)
 
 2. Sentiment analysis if we have time
 * segway into DNN
