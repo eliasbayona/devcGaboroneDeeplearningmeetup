@@ -62,10 +62,9 @@ Loss functions are used to determine the error (aka “the loss”) between the 
 
 
 	
-## PROJECTS
+## PRACTICAL
 
-1. Style transfer and image classification
-* images and video files
+1.image classification
 * segway into CNNs
 
 2. Sentiment analysis if we have time
