@@ -10,28 +10,33 @@
 - batchnorm 2d, 1d, 3d 
 
 - Types of neural networks
-	* Basic deep neural network
-	* CNN, DCNN
-	* GAN, DCGAN
-	* AUTO ENCODERS
+	1. Basic deep neural network
+	2. CNN, DCNN 
+	   * object classification
+	   * object detection
+	   
+	3. GAN, DCGAN 
+	   * Generate Photographs of Human Faces
+	   * Photograph Editing
+	   * Text-to-Image Translation (text2image)
+	   * Image-to-Image Translation
+	   
+	4. AUTO ENCODERS
 	* many more...
-
-- network architectures
-	* VGG 
-	* RESNET 
-	* FAST RNN, FASTER RNN
-	* INCEPTION
 	
-- Forward and Backward propagation 
+- Forward and Backward propagation
 
 > How do i know if the model is training (learning something)
 
 ### Loss functions
 
+Loss functions are used to determine the error (aka “the loss”) between the output of our algorithms and the given target value.  In layman’s terms, the loss function expresses how far off the mark our computed output is. 
+
 * REGRESSION
   - Mean Square Error
+    [MSE](MSE.png)
   - Mean Absolute Error
-* Classification Losses
+* Classification
   - Log Loss, Negative Log Likelihood
   - CATEGORICAL CROSS ENTROPHY LOSS
 
@@ -62,6 +67,8 @@
 
 2. Sentiment analysis
 * segway into DNN
+
+
 
 
 
