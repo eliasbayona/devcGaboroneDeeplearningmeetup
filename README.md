@@ -1,14 +1,7 @@
 # devcGaboroneDeeplearningmeetup
 
 [audience layout survay](https://www.surveymonkey.com/r/RRSTB89)
-## Fundametals
-- Input output pipline
-    What kind of data show the network expect and the expected output?
-    eg 34x34 gray scale images -> class(probability) output
-    
-- data normalization
-- batchnorm 2d, 1d, 3d 
-
+## Some Fundametals
 - Types of neural networks
 	1. Basic deep neural network
 	2. CNN, DCNN 
@@ -24,7 +17,15 @@
 	4. AUTO ENCODERS
 	* many more...
 	
-- Forward and Backward propagation
+	
+- Input output pipline
+    What kind of data show the network expect and the expected output?
+    eg 34x34 gray scale images -> class(probability) output
+    
+- data normalization
+- batchnorm 2d, 1d, 3d 
+	
+- Training ( Forward and Backward propagation )
 
 > How do i know if the model is training (learning something)
 
@@ -39,6 +40,7 @@ Loss functions are used to determine the error (aka “the loss”) between the 
     - ![MAE](MAE.jpg)
 * Classification
   - Log Loss, Negative Log Likelihood
+    - ![lloss](LLOSS.png)
   - CATEGORICAL CROSS ENTROPHY LOSS
 
 - learning rate
